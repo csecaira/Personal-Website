@@ -20,10 +20,9 @@ h3, p {
 .navbar {
   background-color: #FCA17D;
   color: #0D0628;
+  text-align: center;
+  width: 100vw;
   padding: 10px;
-}
-.navbar a {
-  text-decoration: none;
 }
 
 /*# sourceMappingURL=style.css.map */
