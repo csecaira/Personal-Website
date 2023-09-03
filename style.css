@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #9A33BE;
+}
+
+h1 {
+  color: #FCA17D;
+}
+
+h2 {
+  color: #F9DBBD;
+}
+
+h3, p {
+  color: #0D0628;
+}
+
+.navbar {
+  background-color: #FCA17D;
+  color: #0D0628;
+  padding: 10px;
+}
+.navbar a {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map */

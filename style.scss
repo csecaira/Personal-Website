@@ -1,0 +1,31 @@
+$backgroundColor: #9A33BE;
+$titleFontColor: #F9DBBD;
+$primaryFontColor: #0D0628; 
+
+body {
+    margin: 0; 
+    padding: 0; 
+    font-family: Arial, sans-serif; 
+    background-color: $backgroundColor;
+}
+
+h1 {
+    color: #FCA17D; 
+}
+
+h2{
+    color: $titleFontColor; 
+}
+
+h3,p{
+    color: $primaryFontColor; 
+}
+
+.navbar { 
+    background-color: #FCA17D;
+    color: $primaryFontColor; 
+    padding: 10px; 
+    a {
+        text-decoration: none;
+    }
+}
